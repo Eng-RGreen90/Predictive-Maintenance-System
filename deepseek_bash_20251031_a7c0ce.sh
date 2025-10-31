@@ -1,0 +1,1 @@
+sqlite3 database/sensor_data.db < database/schema.sql

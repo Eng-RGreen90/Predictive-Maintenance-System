@@ -1,0 +1,1 @@
+cd ml_model && python train_model.py
